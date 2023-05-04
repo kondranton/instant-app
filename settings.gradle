@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "InstantApp"
 include ':app'
-include ':InstantAppFeature'
